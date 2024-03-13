@@ -89,8 +89,8 @@ else:
     print('请求失败，状态码：', response.status_code)
 
 m = Messenger(
-    token='eabf4e66635ba7802e7777b11ea454fc7d6a35e8026f534a423ec69a7fdc3a49',
-    secret='SECffaa8ecbee0f290be3a012fd30197e64e5a07662aaee918041ee1a6e0668e2ed'
+    token='哈里',
+    secret='路亚'
 )
 
 title = title[0]
