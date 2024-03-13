@@ -93,8 +93,8 @@ for i in range(1, count + 1):
 
 
 m = Messenger(
-    token='eabf4e66635ba7802e7777b11ea454fc7d6a35e8026f534a423ec69a7fdc3a49',
-    secret='SECffaa8ecbee0f290be3a012fd30197e64e5a07662aaee918041ee1a6e0668e2ed'
+    token='哈里',
+    secret='路亚'
 )
 
 title = date + "新闻联播"
